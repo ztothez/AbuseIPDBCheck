@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "AbuseIPDB Check",
+  "description": "Check a URL or an IP address on AbuseIPDB",
+  "version": "2.0",
+
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "permissions": ["contextMenus", "tabs"],
+
+  "action": {
+    "default_title": "Check on AbuseIPDB",
+    "default_icon": {
+      "16": "images/icon16.png",
+      "32": "images/icon32.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  },
+
+"browser_specific_settings": {
+  "gecko": {
+    "id": "{c3d4e5f6-a7b8-9012-ab34-cd56ef789012}",
+    "strict_min_version": "142.0",
+    "data_collection_permissions": {
+      "required": ["none"]
+    }
+  }
+ }
+}
