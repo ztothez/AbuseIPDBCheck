@@ -36,3 +36,9 @@ No background requests, tracking, or telemetry are performed.
 This project is licensed under the MIT License.
 Source code:
 [https://github.com/ztothez/AbuseIPDBCheck](https://github.com/ztothez/AbuseIPDBCheck)
+
+## Privacy Policy
+This extension does not collect, store, or track personal data.  
+For full details, see the privacy policy below.
+[Privacy Policy](https://ztothez.github.io/AbuseIPDBCheck/)
+
