@@ -1,4 +1,3 @@
-Here’s the **same clean, consistent style** applied to **AbuseIPDB Check**, matching the other READMEs exactly.
 # AbuseIPDB Check Extension
 
 AbuseIPDB Check is a lightweight, open-source browser extension for quickly looking up IP addresses on AbuseIPDB to assess whether they have been reported for malicious activity. It is intended for network administrators, security analysts, and anyone working with potentially untrusted IP addresses.
